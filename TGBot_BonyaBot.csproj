@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngleSharp" Version="0.16.1" />
+    <PackageReference Include="Aspose.Cells" Version="22.5.0" />
+    <PackageReference Include="AWSSDK.Core" Version="3.7.11.3" />
+    <PackageReference Include="CefSharp.Common.NETCore" Version="101.0.180" />
+    <PackageReference Include="CefSharp.OffScreen" Version="101.0.180" />
+    <PackageReference Include="CefSharp.WinForms" Version="101.0.180" />
+    <PackageReference Include="CefSharp.Wpf" Version="101.0.180" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.42" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Azure.Amqp" Version="2.5.10" />
+    <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="6.17.0" />
+    <PackageReference Include="NEST" Version="7.17.2" />
+    <PackageReference Include="PuppeteerSharp" Version="7.0.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.1.1" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="101.0.4951.4100" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+    <PackageReference Include="Telegram.Bot" Version="17.0.0" />
+    <PackageReference Include="Yandex.Geocoder.v2" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
